@@ -1,12 +1,4 @@
 {
   "name": "MDNA",
   "image": "https://raw.githubusercontent.com/JLBCreations/mdna/main/EIGHT.png"
-  "properties": {
-    "files": [
-      {
-        "type": "image/png",
-        "uri": "https://arweave.net/oPA8Da7sPHLITZKh___WTMUE-aBhlmdhRr1Y1Ha-pTE"
-      }
-    ]
-  }
 }
